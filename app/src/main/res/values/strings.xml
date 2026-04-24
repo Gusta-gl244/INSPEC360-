@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">INSPEC360</string>
+    <string name="login_title">INSPEC360</string>
+    <string name="login_subtitle">Inspeção de Redes de Transmissão</string>
+    <string name="username_hint">Usuário</string>
+    <string name="password_hint">Senha</string>
+    <string name="login_button">Entrar</string>
+    <string name="new_inspection">Nova Inspeção</string>
+    <string name="structures">Estruturas</string>
+    <string name="history">Histórico</string>
+    <string name="settings">Configurações</string>
+    <string name="home_title">Dashboard</string>
+    <string name="welcome">Bem-vindo</string>
+    <string name="start_inspection">Iniciar Inspeção</string>
+    <string name="anomaly">Anomalia</string>
+    <string name="severity">Severidade</string>
+    <string name="take_photo">Tirar Foto</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="finish_inspection">Finalizar Inspeção</string>
+    <string name="error">Erro</string>
+    <string name="success">Sucesso</string>
+    <string name="required_field">Campo obrigatório</string>
+    <string name="light">Leve</string>
+    <string name="moderate">Moderada</string>
+    <string name="severe">Grave</string>
+    <string name="critical">Crítica</string>
+</resources>

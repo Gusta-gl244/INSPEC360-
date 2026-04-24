@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Login -->
+    <string name="login_title">INSPEC360</string>
+    <string name="login_subtitle">Inspeção de Redes de Transmissão</string>
+    <string name="username">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="enter">Entrar</string>
+    <string name="invalid_credentials">Credenciais inválidas</string>
+    
+    <!-- Dashboard -->
+    <string name="welcome">Bem-vindo</string>
+    <string name="new_inspection">Nova Inspeção</string>
+    <string name="structures">Estruturas</string>
+    <string name="history">Histórico</string>
+    <string name="settings">Configurações</string>
+    
+    <!-- Structures -->
+    <string name="structures_list">Estruturas</string>
+    <string name="search">Buscar</string>
+    <string name="back">Voltar</string>
+    <string name="critical_warning">⚠️ ESTRUTURA CRÍTICA</string>
+    
+    <!-- Inspection -->
+    <string name="start_inspection">Iniciar Inspeção</string>
+    <string name="finish_inspection">Finalizar Inspeção</string>
+    <string name="inspection_in_progress">Inspeção em andamento</string>
+    <string name="inspection_finished">Inspeção finalizada</string>
+    
+    <!-- Anomalies -->
+    <string name="register_anomaly">Registrar Anomalia</string>
+    <string name="component">Componente</string>
+    <string name="anomaly_type">Tipo de Anomalia</string>
+    <string name="severity">Severidade</string>
+    <string name="light">Leve</string>
+    <string name="moderate">Moderada</string>
+    <string name="severe">Grave</string>
+    <string name="critical">Crítica</string>
+    <string name="photo">Tirar Foto</string>
+    <string name="observation">Observação</string>
+    <string name="save_anomaly">Salvar Anomalia</string>
+    <string name="photo_required">Foto obrigatória para severidade grave ou crítica</string>
+    <string name="gps_required">Localização GPS obrigatória</string>
+    
+    <!-- History -->
+    <string name="inspection_history">Histórico de Inspeções</string>
+    <string name="no_inspections">Nenhuma inspeção registrada</string>
+    <string name="date">Data</string>
+    <string name="status">Status</string>
+    
+    <!-- Settings -->
+    <string name="app_settings">Configurações</string>
+    <string name="export_data">Exportar Dados</string>
+    <string name="clear_database">Limpar Banco de Dados</string>
+    <string name="logout">Sair</string>
+    <string name="version">Versão</string>
+    
+    <!-- Messages -->
+    <string name="error">Erro</string>
+    <string name="success">Sucesso</string>
+    <string name="loading">Carregando...</string>
+    <string name="cancel">Cancelar</string>
+    <string name="required_field">Campo obrigatório</string>
+</resources>

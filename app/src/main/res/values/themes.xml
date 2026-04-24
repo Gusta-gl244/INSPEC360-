@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.INSPEC360" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/primary_dark_green</item>
+        <item name="android:colorAccent">@color/accent_gold</item>
+    </style>
+</resources>

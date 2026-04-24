@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_dark_green">#2D5A3D</color>
+    <color name="accent_gold">#C4A747</color>
+    <color name="severity_light_green">#4CAF50</color>
+    <color name="severity_moderate_yellow">#FFC107</color>
+    <color name="severity_severe_orange">#FF9800</color>
+    <color name="severity_critical_red">#F44336</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="dark_gray">#424242</color>
+    <color name="border_gray">#E0E0E0</color>
+</resources>

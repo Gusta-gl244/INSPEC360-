@@ -1,0 +1,40 @@
+# .gitignore
+
+# Gradle files
+.gradle/
+build/
+*.apk
+*.ap_
+*.aab
+*.so
+*.jks
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Room
+*.db
+*.db-journal
+
+# Android Studio
+.externalNativeBuild
+.cxx
+
+# Keystores
+*.jks
+*.keystore
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
